@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{897041A7-708D-4861-AEBC-CF82E947D48D}|OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj|c:\\users\\kamal\\desktop\\onlineedu\\onlineedu\\onlineedu.dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{897041A7-708D-4861-AEBC-CF82E947D48D}|OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj|solutionrelative:onlineedu.dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC360702-75C4-49B4-A672-4B528682485C}|OnlineEdu.Business\\OnlineEdu.Business.csproj|c:\\users\\kamal\\desktop\\onlineedu\\onlineedu\\onlineedu.business\\concrete\\genericmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC360702-75C4-49B4-A672-4B528682485C}|OnlineEdu.Business\\OnlineEdu.Business.csproj|solutionrelative:onlineedu.business\\concrete\\genericmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{897041A7-708D-4861-AEBC-CF82E947D48D}|OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj|c:\\users\\kamal\\desktop\\onlineedu\\onlineedu\\onlineedu.dataaccess\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{897041A7-708D-4861-AEBC-CF82E947D48D}|OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj|solutionrelative:onlineedu.dataaccess\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC360702-75C4-49B4-A672-4B528682485C}|OnlineEdu.Business\\OnlineEdu.Business.csproj|c:\\users\\kamal\\desktop\\onlineedu\\onlineedu\\onlineedu.business\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC360702-75C4-49B4-A672-4B528682485C}|OnlineEdu.Business\\OnlineEdu.Business.csproj|solutionrelative:onlineedu.business\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.Business\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.Business\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.Business\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "OnlineEdu.Business\\Abstract\\IGenericService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:48:56.597Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -35,27 +48,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.DataAccess\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "OnlineEdu.DataAccess\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.DataAccess\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "OnlineEdu.DataAccess\\Repositories\\GenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAjAAAA",
+              "Title": "GenericManager.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.Business\\Concrete\\GenericManager.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.Business\\Concrete\\GenericManager.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.Business\\Concrete\\GenericManager.cs",
+              "RelativeToolTip": "OnlineEdu.Business\\Concrete\\GenericManager.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwDMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T15:29:53.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.DataAccess\\Abstract\\IRepository.cs",
-              "RelativeDocumentMoniker": "OnlineEdu.DataAccess\\Abstract\\IRepository.cs",
-              "ToolTip": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.DataAccess\\Abstract\\IRepository.cs",
-              "RelativeToolTip": "OnlineEdu.DataAccess\\Abstract\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T15:23:52.739Z",
+              "WhenOpened": "2024-11-14T15:48:29.185Z",
               "EditorCaption": ""
             }
           ]
