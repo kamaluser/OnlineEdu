@@ -13,3 +13,4 @@ C:\Users\kamal\Desktop\OnlineEdu\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\Online
 C:\Users\kamal\Desktop\OnlineEdu\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\refint\OnlineEdu.DTO.dll
 C:\Users\kamal\Desktop\OnlineEdu\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.pdb
 C:\Users\kamal\Desktop\OnlineEdu\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\ref\OnlineEdu.DTO.dll
+C:\Users\kamal\Desktop\OnlineEdu\OnlineEdu\OnlineEdu.DTO\obj\Debug\net8.0\OnlineEdu.DTO.sourcelink.json

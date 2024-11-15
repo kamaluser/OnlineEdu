@@ -13,7 +13,7 @@ namespace OnlineEdu.DataAccess.Abstract
 
         T GetById(int id);
 
-        T GetByFilter(Expression<Func<T,bool>> predicate)
+        T GetByFilter(Expression<Func<T, bool>> predicate);
 
         void Create(T entity);
 

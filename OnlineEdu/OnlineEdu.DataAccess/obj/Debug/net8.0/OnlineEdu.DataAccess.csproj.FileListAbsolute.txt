@@ -13,3 +13,4 @@ C:\Users\kamal\Desktop\OnlineEdu\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0
 C:\Users\kamal\Desktop\OnlineEdu\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\refint\OnlineEdu.DataAccess.dll
 C:\Users\kamal\Desktop\OnlineEdu\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.pdb
 C:\Users\kamal\Desktop\OnlineEdu\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\ref\OnlineEdu.DataAccess.dll
+C:\Users\kamal\Desktop\OnlineEdu\OnlineEdu\OnlineEdu.DataAccess\obj\Debug\net8.0\OnlineEdu.DataAccess.sourcelink.json

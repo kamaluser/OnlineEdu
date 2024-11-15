@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC360702-75C4-49B4-A672-4B528682485C}|OnlineEdu.Business\\OnlineEdu.Business.csproj|c:\\users\\kamal\\desktop\\onlineedu\\onlineedu\\onlineedu.business\\concrete\\genericmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC360702-75C4-49B4-A672-4B528682485C}|OnlineEdu.Business\\OnlineEdu.Business.csproj|solutionrelative:onlineedu.business\\concrete\\genericmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DA1DA37-DEFB-4D1C-B5B9-B078393DE8F5}|OnlineEdu.API\\OnlineEdu.API.csproj|c:\\users\\kamal\\desktop\\onlineedu\\onlineedu\\onlineedu.api\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA1DA37-DEFB-4D1C-B5B9-B078393DE8F5}|OnlineEdu.API\\OnlineEdu.API.csproj|solutionrelative:onlineedu.api\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA1DA37-DEFB-4D1C-B5B9-B078393DE8F5}|OnlineEdu.API\\OnlineEdu.API.csproj|c:\\users\\kamal\\desktop\\onlineedu\\onlineedu\\onlineedu.api\\mapping\\bannermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA1DA37-DEFB-4D1C-B5B9-B078393DE8F5}|OnlineEdu.API\\OnlineEdu.API.csproj|solutionrelative:onlineedu.api\\mapping\\bannermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA1DA37-DEFB-4D1C-B5B9-B078393DE8F5}|OnlineEdu.API\\OnlineEdu.API.csproj|c:\\users\\kamal\\desktop\\onlineedu\\onlineedu\\onlineedu.api\\controllers\\aboutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA1DA37-DEFB-4D1C-B5B9-B078393DE8F5}|OnlineEdu.API\\OnlineEdu.API.csproj|solutionrelative:onlineedu.api\\controllers\\aboutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA1DA37-DEFB-4D1C-B5B9-B078393DE8F5}|OnlineEdu.API\\OnlineEdu.API.csproj|c:\\users\\kamal\\desktop\\onlineedu\\onlineedu\\onlineedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA1DA37-DEFB-4D1C-B5B9-B078393DE8F5}|OnlineEdu.API\\OnlineEdu.API.csproj|solutionrelative:onlineedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC360702-75C4-49B4-A672-4B528682485C}|OnlineEdu.Business\\OnlineEdu.Business.csproj|c:\\users\\kamal\\desktop\\onlineedu\\onlineedu\\onlineedu.business\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC360702-75C4-49B4-A672-4B528682485C}|OnlineEdu.Business\\OnlineEdu.Business.csproj|solutionrelative:onlineedu.business\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897041A7-708D-4861-AEBC-CF82E947D48D}|OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj|c:\\users\\kamal\\desktop\\onlineedu\\onlineedu\\onlineedu.dataaccess\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897041A7-708D-4861-AEBC-CF82E947D48D}|OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj|solutionrelative:onlineedu.dataaccess\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BannerMapping.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.API\\Mapping\\BannerMapping.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.API\\Mapping\\BannerMapping.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.API\\Mapping\\BannerMapping.cs",
+              "RelativeToolTip": "OnlineEdu.API\\Mapping\\BannerMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:33:38.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BannersController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.API\\Controllers\\BannersController.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.API\\Controllers\\BannersController.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.API\\Controllers\\BannersController.cs",
+              "RelativeToolTip": "OnlineEdu.API\\Controllers\\BannersController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:32:49.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.API\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.API\\Program.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.API\\Program.cs",
+              "RelativeToolTip": "OnlineEdu.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:16:45.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IGenericService.cs",
               "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.Business\\Abstract\\IGenericService.cs",
               "RelativeDocumentMoniker": "OnlineEdu.Business\\Abstract\\IGenericService.cs",
               "ToolTip": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.Business\\Abstract\\IGenericService.cs",
               "RelativeToolTip": "OnlineEdu.Business\\Abstract\\IGenericService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAjwA8AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T15:48:56.597Z",
+              "WhenOpened": "2024-11-15T14:16:39.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.DataAccess\\Abstract\\IRepository.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.DataAccess\\Abstract\\IRepository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.DataAccess\\Abstract\\IRepository.cs",
+              "RelativeToolTip": "OnlineEdu.DataAccess\\Abstract\\IRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAjwA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:16:32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutsController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.API\\Controllers\\AboutsController.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.API\\Controllers\\AboutsController.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.API\\Controllers\\AboutsController.cs",
+              "RelativeToolTip": "OnlineEdu.API\\Controllers\\AboutsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:03:50.001Z",
               "EditorCaption": ""
             },
             {
@@ -44,19 +125,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GenericManager.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.Business\\Concrete\\GenericManager.cs",
-              "RelativeDocumentMoniker": "OnlineEdu.Business\\Concrete\\GenericManager.cs",
-              "ToolTip": "C:\\Users\\kamal\\Desktop\\OnlineEdu\\OnlineEdu\\OnlineEdu.Business\\Concrete\\GenericManager.cs",
-              "RelativeToolTip": "OnlineEdu.Business\\Concrete\\GenericManager.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAuwDMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T15:48:29.185Z",
-              "EditorCaption": ""
             }
           ]
         },

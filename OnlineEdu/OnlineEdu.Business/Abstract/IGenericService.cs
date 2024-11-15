@@ -13,7 +13,7 @@ namespace OnlineEdu.Business.Abstract
 
         T TGetById(int id);
 
-        T TGetByFilter(Expression<Func<T, bool>> predicate)
+        T TGetByFilter(Expression<Func<T, bool>> predicate);
 
         void TCreate(T entity);
 
